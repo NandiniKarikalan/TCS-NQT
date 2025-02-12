@@ -1,8 +1,10 @@
-import java.util.*;
-
 /**
  * FequencySort
  */
+ 
+package Collections;
+import java.util.*;
+
 public class FequencySort {
     public int[] frequencySort(int[] nums) {
         // Create a frequency map
